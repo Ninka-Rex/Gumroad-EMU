@@ -18,7 +18,7 @@
 
 ## Getting Started 🚀
 
-1. Download the latest release from the [Releases](https://github.com/your-username/Gumroad-EMU/releases) page.
+1. Download the latest release from the [Releases](https://github.com/your-username/Gumroad-EMU/releases/tag/release) page.
 2. Run the application and trust the generated certificate when prompted.
 3. Fill out all applicable information for the software you're trying to test.
 4. Test the software as normal. Gumroad-EMU will rewrite API requests for you.
